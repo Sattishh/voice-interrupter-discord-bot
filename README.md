@@ -13,11 +13,11 @@ A Discord Bot that plays an annoying sound over a targetted user. It uses **[gui
 ## 💨 Running the project
 ``Please do give me the credit if you decide to self-host the bot``
 
-If you're choosing to host the bot on your own, go to **[Setup Page]()** in the Wiki section.
+If you're choosing to host the bot on your own, go to **[Setup Page](https://github.com/Sattishh/voice-interrupter-discord-bot/wiki/Setup)** in the Wiki section.
 
 ## ❓ Questions/Help
 
-If you have a question or need troubleshooting help, please open an **[Issue]()** on this repository.
+If you have a question or need troubleshooting help, please open an **[Issue](https://github.com/Sattishh/voice-interrupter-discord-bot/issues)** on this repository.
 
 ## 🔑 License
 
