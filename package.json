@@ -1,0 +1,27 @@
+{
+  "name": "voice-interrupter-discord-bot",
+  "version": "1.0.0",
+  "description": "Interrupts a user in voice channel with an annoying sound",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sattishh/voice-interrupter-discord-bot.git"
+  },
+  "keywords": [
+    "voice",
+    "interrupter"
+  ],
+  "author": "Sattish Shewkani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sattishh/voice-interrupter-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Sattishh/voice-interrupter-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security"
+  }
+}
