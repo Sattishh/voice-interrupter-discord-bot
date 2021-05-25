@@ -39,17 +39,17 @@ bot.on("guildMemberSpeaking", async (member, speaking) => {
             if (speaking.bitfield) {
             const voiceChannel = member.voice.channel;
             voiceChannel.join().then(connection => {
-            connection.play(`./${annoying_sound}`)
+            connection.play(`./audio/${annoying_sound}`)
                  
             })
         } else {
             member.voice.channel.join().then(connection => {
-                connection.play('./silence.mp3')
+                connection.play('./audio/silence.mp3')
             })
         }
         } else {
             member.voice.channel.join().then(connection => {
-                connection.play('./silence.mp3')
+                connection.play('./audio/silence.mp3')
             })
         }
     
