@@ -1,6 +1,6 @@
 ## 🔈 Voice Interrupter Discord Bot [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Support](https://img.shields.io/badge/support-Discord-blueviolet)](https://discord.gg/DGeqAgcMnF)
 
-A Discord Bot that plays an annoying sound over a targetted user. It uses **[guildMemberSpeaking()](https://discord.js.org/#/docs/main/stable/class/Client?scrollTo=e-guildMemberSpeaking)** event to play a sound whenever the target user speaks.
+A Discord Bot that plays an annoying sound over a targetted user. It uses **[guildMemberSpeaking()](https://discord.js.org/#/docs/main/v12/class/Client?scrollTo=e-guildMemberSpeaking)** event to play a sound whenever the target user speaks.
 
 ⚙ **How it works**
 * The Bot _waits_ for the **Targetted User** to join a Voice Channel. 
