@@ -11,7 +11,6 @@ A Discord Bot that plays an annoying sound over a targetted user. It uses **[gui
 ``Give the repository a star if you like the project :)``
 
 ## 💨 Running the project
-``Please do give me the credit if you decide to self-host the bot``
 
 If you're choosing to host the bot on your own, go to **[Setup Page](https://github.com/Sattishh/voice-interrupter-discord-bot/wiki/Setup)** in the Wiki section.
 
